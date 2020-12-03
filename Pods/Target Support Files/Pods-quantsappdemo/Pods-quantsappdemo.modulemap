@@ -1,0 +1,6 @@
+framework module Pods_quantsappdemo {
+  umbrella header "Pods-quantsappdemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
